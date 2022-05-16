@@ -2,11 +2,11 @@
 
 
 
-<a href="https://github.com/itz-MK-302/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/itz-MK-302?label=Followers&color=blue&style=flat-square"></a>
+<a href="https://github.com/itx-MK-302/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/itx-MK-302?label=Followers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Azim-Vau/termux-style/stargazers/">
 
-![](https://komarev.com/ghpvc/?username=itz-MK-302)
+![](https://komarev.com/ghpvc/?username=itx-MK-302)
 
 
 </a>
